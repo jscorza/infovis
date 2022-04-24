@@ -1,12 +1,37 @@
-h1{
-    font: 30px;
+body{
     background-color: rgba(255, 228, 196, 0.646);
+}
+h1{
+    font-size: 70px;
+    background-color: rgba(6, 6, 6, 0.155);
     width: max-content;
     border-radius: 20px;
+    padding: 10px;
 }
 h2{
-    background-color: rgba(255, 228, 196, 0.646);
-    width: max-content;
+
+    background-color: rgba(6, 6, 6, 0.155);
     border-radius: 20px;
+    width: max-content;
+    padding: 10px;
+    font-size: 40px;
     
+}
+h3{
+    font-size: 40px;
+}
+.graf{
+    background-color: white;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+.imgPerro{
+    width: 40%;
+    background-image: url(./WhatsApp\ Image\ 2022-04-23\ at\ 11.56.33\ PM.jpeg);
+    background-size: contain;
+}
+.titulo{
+    margin-left: 20px;
 }
