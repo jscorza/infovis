@@ -19,6 +19,11 @@ h2{
 }
 h3{
     font-size: 40px;
+    background-color: rgba(6, 6, 6, 0.155);
+    border-radius: 20px;
+    width: max-content;
+    padding: 10px;
+    
 }
 .graf{
     background-color: white;
